@@ -148,3 +148,7 @@ El Capital Económico conserva el mismo orden que el CaR: cnr nomina > cnr auto 
 - LGD constante por cartera.
 - Aproximación normal para el CaR (β = 2.326).
 - Análisis estático en dos fechas de corte.
+
+## Autoría
+
+Proyecto desarrollado por Celeste Núñez López, Kevin Rodríguez Pérez, Francisco Lince Domínguez y Alejandro Dorantes Quiroz.

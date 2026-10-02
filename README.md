@@ -151,4 +151,4 @@ El Capital Económico conserva el mismo orden que el CaR: cnr nomina > cnr auto 
 
 ## Autoría
 
-Proyecto desarrollado por Celeste Núñez López, Kevin Rodríguez Pérez, Francisco Lince Domínguez y Alejandro Dorantes Quiroz.
+Proyecto desarrollado por Celeste Núñez López.
